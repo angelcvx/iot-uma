@@ -10,5 +10,4 @@ This Benchmark version of the TIS and OTAF allows setting the number of devices,
 ## Usage
 
 - Go to the modules directory and run:  <python .\script_name.py>
-
 - Select the number of devices, tasks and configuration in the case of the TIS and devices and tasks in the case of the OTAF.
