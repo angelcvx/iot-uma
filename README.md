@@ -19,7 +19,7 @@ Go to the modules directory and run:  <python .\script_name.py>
 
 ## DOI
 
-https://doi.org/10.5281/zenodo.4068123
+https://doi.org/10.5281/zenodo.4068123 (v1.0.0)
 
 ## License
 
