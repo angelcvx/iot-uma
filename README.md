@@ -17,6 +17,10 @@ The "Benchmark" directory contains a Benchmark version of the TIS and OTAF, whic
 
 Go to the modules directory and run:  <python .\script_name.py>
 
+## DOI
+
+https://doi.org/10.5281/zenodo.4068123
+
 ## License
 
 -GNU GPLv3
